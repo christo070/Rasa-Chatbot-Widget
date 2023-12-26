@@ -1,4 +1,4 @@
-# Rasa Chatbot Widget 2.0
+# Rasa Chatbot Widget
 
 ![ScreenShot](public/banner.png)
 
